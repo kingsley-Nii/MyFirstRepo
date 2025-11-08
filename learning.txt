@@ -1,0 +1,9 @@
+echo "Reflection on My Learning
+
+So far, I’ve learned how to:
+- Create and manage repositories on GitHub.
+- Work with branches and pull requests.
+- Collaborate through forks and contributions.
+- Use Git commands to sync local and remote changes.
+
+These skills are essential for teamwork and version control in software development." > learning.txt
