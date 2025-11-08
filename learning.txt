@@ -1,4 +1,4 @@
-echo "Reflection on My Learning
+What I have learned from this course
 
 So far, I’ve learned how to:
 - Create and manage repositories on GitHub.
